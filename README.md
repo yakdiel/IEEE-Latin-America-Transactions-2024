@@ -1,0 +1,1 @@
+We are delighted to present the supplementary material accompanying the research paper titled "Implementation of a Reliability-Centered Maintenance Plan for Fire-Tube Boilers: A Case Study in the Textile Industry."
